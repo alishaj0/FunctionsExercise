@@ -130,4 +130,21 @@ console.log(twoMovies);
 
 
 
-// BONUSES (will return)
+// BONUSES 
+
+//13a)
+const charactersOne = [
+    `Statler`, 
+    `Waldorf`
+];
+
+//13b)
+const charactersTwo = [
+    `The Swedish Chef`,
+    `Animal`,
+    `Rowlf`, 
+];
+
+//13c)
+// ???
+
